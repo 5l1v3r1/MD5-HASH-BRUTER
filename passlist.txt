@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/Common-Credentials/10-million-password-list-top-1000000.txt
+
+
+Go here and copy and paste as many as you can into this file (Clear the file before copying in)
